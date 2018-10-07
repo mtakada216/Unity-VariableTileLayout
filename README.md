@@ -1,5 +1,5 @@
 # Unity-VariableTileLayout
-UI Extensions for tile layout like Pinterenst.
+UI Extensions that can create a [Pintrest](https://www.pinterest.com/) style tile layout.
 
 ![screenshot01](https://github.com/kiepng/Unity-VariableTileLayout/blob/master/Documents/screenshot01.png)
 ![screenshot02](https://github.com/kiepng/Unity-VariableTileLayout/blob/master/Documents/screenshot02.png)
